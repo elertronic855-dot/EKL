@@ -1,0 +1,344 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Company Profile",
+    "services": "Services",
+    "stats": "Track Record",
+    "network": "Global Network",
+    "clients": "Clients",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "tagline": "International Freight Forwarding Specialist",
+    "title": "E-KEI\nLOGISTICS",
+    "subtitle": "Fast, Accurate, and Friendly",
+    "description": "Centered in Shanghai, we connect Asia and the Americas through a global logistics network. We provide one-stop solutions from air and ocean freight to inland transportation, customs clearance, and warehouse management.",
+    "buttons": {
+      "service": "Learn About Services",
+      "contact": "Request Quote"
+    },
+    "stats": {
+      "years": "Years of Experience",
+      "shipments": "2025 Air Export Shipments",
+      "sea": "2025 Ocean Export Shipments",
+      "partners": "Global Partners",
+      "airTotal": "Air Import & Export Shipments",
+      "seaTotal": "Ocean Import & Export Shipments",
+      "airWeight": "Air Cargo Weight",
+      "seaVolume": "Ocean Freight Volume"
+    }
+  },
+  "about": {
+    "tag": "Company Profile",
+    "title": "E-KEI LOGISTICS CO., LTD",
+    "profile": {
+      "company": "Company Name",
+      "location": "Location",
+      "specialty": "Core Expertise",
+      "companyValue": "E-KEI LOGISTICS CO., LTD",
+      "locationValue": "Global logistics network connecting Asia and the Americas, centered in Shanghai",
+      "specialtyValue": "Precision equipment (semiconductors, LCD displays), hazardous materials, specialized cargo (machinery, refrigerated goods, project cargo)"
+    },
+    "quote": "From start to finish, EKL has continuously strived to provide the most efficient and sustainable services to our valuable customers.",
+    "contact": "Contact Information",
+    "address": "Rm405,406 Hongqiao Crystal Business Bld., No2 Lane, 280 Hongjing Rd., Shanghai, China",
+    "phone": "T: +86-21-3468-9339 / FAX: +86-21-3468-9338",
+    "email": "eklsha@eklchina.com",
+    "ceoMessage": "Message from the CEO",
+    "ceoQuote": "E-KEI LOGISTICS is more than just a freight forwarding company. We are a partner in your global business growth. With cutting-edge technology and expert teams, we deliver services that exceed customer expectations.",
+    "ceeName": "CEO Kim Jae-kyun",
+    "vision": "Vision & Core Values",
+    "visionTitle": "Vision & Core Values",
+    "values": [
+      {
+        "title": "Global Logistics Leadership",
+        "desc": "We strengthen market competitiveness through optimization solutions backed by global infrastructure and advanced technology."
+      },
+      {
+        "title": "Innovation & Technology Excellence",
+        "desc": "We deliver efficient logistics transportation through process optimization and real-time tracking systems."
+      },
+      {
+        "title": "Customer-Centric Service",
+        "desc": "We build strong trust through customized services and pursue long-term strategic partnerships."
+      }
+    ],
+    "history": "Company History",
+    "historyTitle": "Company History",
+    "timeline": [
+      {
+        "year": "2011",
+        "title": "E-KEI LOGISTICS Founded",
+        "desc": "Established operations in Shanghai and Wuxi"
+      },
+      {
+        "year": "2013",
+        "title": "Wai Gao Qiao CFS Warehouse Operations",
+        "desc": "Commenced air cargo management through CFS warehouse; expanded Shanghai operations"
+      },
+      {
+        "year": "2015",
+        "title": "JNJ LOGISTICS Established",
+        "desc": "Further expansion of Shanghai operations"
+      },
+      {
+        "year": "2016",
+        "title": "Class 1 CAAC Certification Obtained",
+        "desc": "CASS approval acquired"
+      },
+      {
+        "year": "2020",
+        "title": "Continuous Growth",
+        "desc": "Growing steadily alongside our valued customers"
+      }
+    ]
+  },
+  "services": {
+    "tag": "Services",
+    "title": "Services",
+    "air": {
+      "label": "AIR FREIGHT",
+      "title": "Air Freight",
+      "summary": "Fast Just-In-Time air solutions optimizing urgent logistics requirements.",
+      "features": [
+        {
+          "title": "Urgent Logistics Optimization",
+          "desc": "Rapid Just-In-Time air freight solutions"
+        },
+        {
+          "title": "Process Efficiency",
+          "desc": "Smart systems simplifying complex logistics operations"
+        },
+        {
+          "title": "Global Partnerships",
+          "desc": "Competitive rates and guaranteed fastest transit times"
+        },
+        {
+          "title": "Real-Time Visibility",
+          "desc": "System-based monitoring and proactive risk management"
+        },
+        {
+          "title": "Specialized Cargo Expertise",
+          "desc": "Customized services for hazardous materials, cold chain, and high-value cargo"
+        }
+      ]
+    },
+    "sea": {
+      "label": "OCEAN FREIGHT",
+      "title": "Ocean Freight",
+      "summary": "Cost-effective and reliable large-scale ocean shipping solutions.",
+      "features": [
+        {
+          "title": "Bulk & Large Shipment Optimization",
+          "desc": "Cost-effective and reliable large-scale ocean freight solutions"
+        },
+        {
+          "title": "Global Network",
+          "desc": "Optimal rates and space allocation through partnerships with major shipping lines"
+        },
+        {
+          "title": "Flexible Shipping Services",
+          "desc": "Customized FCL and LCL services tailored to cargo volume"
+        },
+        {
+          "title": "Integrated Equipment Transport",
+          "desc": "RO/RO handling minimizing loading/unloading risks and reducing transit time"
+        },
+        {
+          "title": "Comprehensive Risk Management",
+          "desc": "Real-time monitoring and proactive response through weather, labor, and schedule analysis"
+        }
+      ]
+    },
+    "truck": {
+      "label": "INLAND TRANSPORT",
+      "title": "Inland Transport",
+      "summary": "Safe transportation of sensitive cargo with specialized teams and vibration-free vehicles.",
+      "features": [
+        {
+          "title": "Sensitive Cargo Specialization",
+          "desc": "Expert personnel and vibration-free vehicles for semiconductors and precision equipment"
+        },
+        {
+          "title": "Integrated Transport Network",
+          "desc": "Optimal routing and cost efficiency through truck and rail coordination"
+        },
+        {
+          "title": "Strong Security & Tracking",
+          "desc": "Dedicated security services for high-value products and real-time vehicle tracking"
+        },
+        {
+          "title": "Specialized Cargo Solutions",
+          "desc": "Dedicated hazmat vehicles and cold chain temperature maintenance systems"
+        },
+        {
+          "title": "Zero-Risk Commitment",
+          "desc": "On-time delivery guarantee and accident prevention through real-time monitoring"
+        }
+      ]
+    },
+    "warehouse": {
+      "label": "WAREHOUSE & CUSTOMS",
+      "title": "Warehouse & Customs Clearance",
+      "summary": "Efficient inventory management through advanced WMS and rapid, accurate customs clearance.",
+      "features": [
+        {
+          "title": "Smart Logistics Operations",
+          "desc": "Advanced WMS-based inventory management and customized solutions"
+        },
+        {
+          "title": "Specialized Warehouse Solutions",
+          "desc": "Climate-controlled, hazmat, and semiconductor-specific storage environments"
+        },
+        {
+          "title": "Fast & Accurate Customs Clearance",
+          "desc": "Compliance expertise and risk management minimizing logistics delays"
+        },
+        {
+          "title": "Safety Management Protocols",
+          "desc": "State-of-the-art facilities and strict guidelines preventing fire and hazmat exposure"
+        },
+        {
+          "title": "Demand-Specific Services",
+          "desc": "Specialized support for semiconductor line continuity and temperature-controlled cargo monitoring"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "tag": "Track Record",
+    "title": "Performance Overview",
+    "air": "Air Freight",
+    "sea": "Ocean Freight",
+    "export": "Export",
+    "import": "Import",
+    "weight": "Weight",
+    "teu": "TEU",
+    "year": "Year",
+    "shipments": "Shipments",
+    "volume": "Volume",
+    "growth": "Growth",
+    "kpi": {
+      "airTotal": "Air Import/Export Shipments",
+      "seaTotal": "Ocean Import/Export Shipments",
+      "airWeight": "Air Cargo Weight",
+      "seaVolume": "Ocean Freight Volume",
+      "airExport": "Air Export",
+      "airImport": "Air Import",
+      "seaExport": "Ocean Export",
+      "seaImport": "Ocean Import"
+    },
+    "highlights": {
+      "title": "Performance Highlights",
+      "items": [
+        "2025 Air Export 9,085 Shipments",
+        "2025 Air Import 4,193 Shipments",
+        "2025 Ocean Export 2,555 Shipments",
+        "2025 Ocean Import 775 Shipments",
+        "Air Cargo 5,744 Tons",
+        "Ocean Freight Volume 3,702 TEU"
+      ]
+    }
+  },
+  "network": {
+    "tag": "Global Network",
+    "title": "Global Network",
+    "features": [
+      "Strategic partnerships with major ports, airports, and inland carriers worldwide",
+      "Optimized routing across multiple logistics channels",
+      "Contingency solutions for emergency situations"
+    ],
+    "regions": [
+      {
+        "name": "USA",
+        "cities": ["New York", "San Francisco", "Chicago", "Los Angeles"]
+      },
+      {
+        "name": "Europe",
+        "cities": ["Germany", "Czech Republic", "Hungary", "Poland", "Istanbul"]
+      },
+      {
+        "name": "Southeast Asia",
+        "cities": ["Singapore", "Malaysia", "Vietnam", "Indonesia"]
+      },
+      {
+        "name": "Asia",
+        "cities": ["South Korea", "Japan", "China", "Hong Kong", "Taiwan"]
+      }
+    ]
+  },
+  "clients": {
+    "tag": "Our Clients",
+    "title": "Trusted by Leading Companies",
+    "description": "We partner with global companies in semiconductors, displays, chemicals, and advanced manufacturing.",
+    "quote": "From start to finish, EKL has continuously strived to provide the most efficient and sustainable services to our valuable customers.",
+    "companies": [
+      { "name": "SK hynix", "category": "Semiconductors" },
+      { "name": "Wistron", "category": "Electronics" },
+      { "name": "BOE", "category": "Display" },
+      { "name": "PROTEC", "category": "Semiconductors" },
+      { "name": "DuPont", "category": "Chemicals" },
+      { "name": "STB", "category": "Semiconductors" },
+      { "name": "Amkor Technology", "category": "Semiconductor Packaging" },
+      { "name": "CSMC", "category": "Semiconductors" },
+      { "name": "FOXLINK", "category": "Electronic Components" },
+      { "name": "ASE KOREA", "category": "Semiconductor Packaging" },
+      { "name": "Inventec Appliances", "category": "Electronics" },
+      { "name": "TIANMA", "category": "Display" },
+      { "name": "DONGWOO FINE-CHEM", "category": "Chemicals" },
+      { "name": "Soubrain", "category": "Semiconductors" },
+      { "name": "DONGJIN SEMICHEM", "category": "Semiconductor Materials" },
+      { "name": "NOVA GAS TECHNOLOGIES", "category": "Specialty Gases" }
+    ]
+  },
+  "contact": {
+    "tag": "Contact Us",
+    "title": "Get in Touch",
+    "description": "Contact our team for a customized logistics solution tailored to your needs.",
+    "company": "E-KEI LOGISTICS CO., LTD",
+    "address": "Rm405,406 Hongqiao Crystal Business Bld., No2 Lane, 280 Hongjing Rd., Shanghai, China",
+    "phone": "T: +86-21-3468-9339 / FAX: +86-21-3468-9338",
+    "email": "eklsha@eklchina.com",
+    "departments": [
+      {
+        "dept": "Air Freight",
+        "name": "Park Jung-sik, Executive Director",
+        "phone": "M. 186-1632-8475",
+        "email": "jspark@eklchina.com"
+      },
+      {
+        "dept": "Ocean Freight",
+        "name": "Park Sung-il, Deputy General Manager",
+        "phone": "M. 156-1839-1826",
+        "email": "jim@eklchina.com"
+      },
+      {
+        "dept": "Wuxi Operations",
+        "name": "Kim Sung-hoon, Director",
+        "phone": "M. 180-1731-0997",
+        "email": "shkim@eklchina.com"
+      }
+    ],
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Service Type",
+      "selectService": "Select a service",
+      "air": "Air Freight",
+      "sea": "Ocean Freight",
+      "truck": "Inland Transport",
+      "warehouse": "Customs Clearance & Warehouse Management",
+      "message": "Message",
+      "submit": "Send Inquiry",
+      "success": "Your inquiry has been received. We will respond promptly."
+    }
+  },
+  "footer": {
+    "tagline": "Fast, Accurate, and Friendly",
+    "description": "Global logistics network connecting Asia and the Americas, centered in Shanghai",
+    "quickLinks": "Quick Links",
+    "copyright": "© 2026 E-KEI LOGISTICS CO., LTD. All rights reserved."
+  }
+}

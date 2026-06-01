@@ -1,0 +1,342 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "公司简介",
+    "services": "服务",
+    "stats": "业绩",
+    "network": "全球网络",
+    "clients": "合作客户",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "tagline": "国际物流货运代理专家",
+    "title": "易科物流\n（上海）有限公司",
+    "subtitle": "Fast, Accurate, and Friendly",
+    "description": "以上海总部为中心，通过全球物流网络连接亚洲和美洲。我们提供从空运、海运、陆运到报关、仓储管理的一站式解决方案。",
+    "buttons": {
+      "service": "了解服务",
+      "contact": "获取报价"
+    },
+    "stats": {
+      "years": "年运营经验",
+      "shipments": "2025年空运出口单数",
+      "sea": "2025年海运出口单数",
+      "partners": "全球合作伙伴",
+      "airTotal": "空运进出口单数",
+      "seaTotal": "海运进出口单数",
+      "airWeight": "空运货物重量",
+      "seaVolume": "海运物动量"
+    }
+  },
+  "about": {
+    "tag": "Company Profile",
+    "title": "易科物流（上海）有限公司",
+    "profile": {
+      "company": "公司名称",
+      "location": "地点",
+      "specialty": "核心专长",
+      "companyValue": "易科物流（上海）有限公司",
+      "locationValue": "以上海总部为中心，连接亚洲和美洲的全球物流网络",
+      "specialtyValue": "精密设备（半导体、液晶显示屏等）、化学品（含危险品）、特种货物（机械设备、冷冻货物、项目货物）"
+    },
+    "quote": "From start to finish, EKL has continuously strived to provide the most efficient and sustainable services to our valuable customers.",
+    "contact": "联系信息",
+    "address": "上海市闵行区虹井路280弄2号虹桥晶座405-406室",
+    "phone": "T: +86-21-3468-9339 / FAX: +86-21-3468-9338",
+    "email": "eklsha@eklchina.com",
+    "ceoMessage": "CEO致辞",
+    "ceoQuote": "易科物流不仅仅是一家物流公司。我们是您全球业务增长的合作伙伴。凭借尖端技术和专业团队，我们提供超越客户期望的服务。",
+    "ceeName": "首席执行官 金宰均",
+    "vision": "愿景与核心价值",
+    "visionTitle": "愿景与核心价值",
+    "values": [
+      {
+        "title": "全球物流领导者",
+        "desc": "通过全球基础设施和先进技术支持的优化解决方案，增强市场竞争力。"
+      },
+      {
+        "title": "创新与技术卓越",
+        "desc": "通过流程优化和实时追踪系统实现高效的物流运输。"
+      },
+      {
+        "title": "以客户为中心的服务",
+        "desc": "通过定制化服务建立深厚信任，追求长期战略合作伙伴关系。"
+      }
+    ],
+    "history": "Company History",
+    "historyTitle": "公司历程",
+    "timeline": [
+      {
+        "year": "2011",
+        "title": "易科物流成立",
+        "desc": "在上海和无锡建立运营基地"
+      },
+      {
+        "year": "2013",
+        "title": "外高桥CFS仓库运营",
+        "desc": "启动空运货物管理的CFS仓库运营；扩展上海业务"
+      },
+      {
+        "year": "2015",
+        "title": "乐宜物流（上海）有限公司 成立",
+        "desc": "进一步扩展上海运营"
+      },
+      {
+        "year": "2016",
+        "title": "获得一级CAAC认证",
+        "desc": "获得CASS批准"
+      },
+      {
+        "year": "2020",
+        "title": "持续增长",
+        "desc": "与尊贵客户携手持续增长"
+      }
+    ]
+  },
+  "services": {
+    "tag": "Services",
+    "title": "服务",
+    "air": {
+      "label": "空运运输",
+      "title": "空运运输",
+      "summary": "快速准时的空运解决方案，优化紧急物流需求。",
+      "features": [
+        {
+          "title": "紧急物流优化",
+          "desc": "快速准时的空运货运解决方案"
+        },
+        {
+          "title": "流程效率",
+          "desc": "简化复杂物流操作的智能系统"
+        },
+        {
+          "title": "全球合作伙伴",
+          "desc": "具有竞争力的运费和保证最快的运输时间"
+        },
+        {
+          "title": "实时可见性",
+          "desc": "基于系统的监控和主动风险管理"
+        },
+        {
+          "title": "特种货物专业知识",
+          "desc": "危险品、冷链和高价值货物的定制服务"
+        }
+      ]
+    },
+    "sea": {
+      "label": "海运运输",
+      "title": "海运运输",
+      "summary": "经济高效的大规模海运解决方案。",
+      "features": [
+        {
+          "title": "大宗货物优化",
+          "desc": "经济高效的大规模海运解决方案"
+        },
+        {
+          "title": "全球网络",
+          "desc": "通过与主要船公司的合作获得最优运费和舱位分配"
+        },
+        {
+          "title": "灵活的运输服务",
+          "desc": "根据货物体积提供定制的整柜和拼柜服务"
+        },
+        {
+          "title": "综合设备运输",
+          "desc": "滚装运输方式最小化装卸风险并缩短运输时间"
+        },
+        {
+          "title": "综合风险管理",
+          "desc": "通过天气、劳动力和日程分析进行实时监控和主动应对"
+        }
+      ]
+    },
+    "truck": {
+      "label": "陆运运输",
+      "title": "陆运运输",
+      "summary": "由半导体和精密设备专业人员和防震车辆安全运输敏感货物。",
+      "features": [
+        {
+          "title": "敏感货物专业运输",
+          "desc": "半导体和精密设备专业人员及防震车辆运营"
+        },
+        {
+          "title": "综合运输网络",
+          "desc": "通过卡车和铁路联运获得最优路线和经济效益"
+        },
+        {
+          "title": "强大的安全和追踪",
+          "desc": "高价值产品专用安全服务和实时车辆位置追踪"
+        },
+        {
+          "title": "特种货物解决方案",
+          "desc": "危险品专用车辆和冷链温度维持系统"
+        },
+        {
+          "title": "零风险导向",
+          "desc": "通过实时监控保证准时性并预防安全事故"
+        }
+      ]
+    },
+    "warehouse": {
+      "label": "仓储与报关",
+      "title": "仓储与报关",
+      "summary": "基于先进WMS的高效库存管理和快速准确的报关服务。",
+      "features": [
+        {
+          "title": "智能物流运营",
+          "desc": "基于先进WMS的高效库存管理和定制解决方案"
+        },
+        {
+          "title": "特种仓库解决方案",
+          "desc": "具有恒温恒湿、危险品、半导体专用等针对货物特性的最优存储环境"
+        },
+        {
+          "title": "快速准确的报关",
+          "desc": "通过专业合规和风险管理最小化物流延误"
+        },
+        {
+          "title": "安全管理规程",
+          "desc": "通过最新设备和严格指南从源头防止火灾和有害物质暴露"
+        },
+        {
+          "title": "需求定制服务",
+          "desc": "防止半导体生产线延误和冷链货物温度监控等专业支持"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "tag": "Performance Data",
+    "title": "业务量统计",
+    "air": "空运",
+    "sea": "海运",
+    "export": "出口",
+    "import": "进口",
+    "weight": "重量",
+    "teu": "TEU",
+    "year": "年",
+    "shipments": "单数",
+    "kpi": {
+      "airTotal": "空运进出口单数",
+      "seaTotal": "海运进出口单数",
+      "airWeight": "空运货物重量",
+      "seaVolume": "海运物动量",
+      "airExport": "空运出口",
+      "airImport": "空运进口",
+      "seaExport": "海运出口",
+      "seaImport": "海运进口"
+    },
+    "highlights": {
+      "title": "Performance Highlights",
+      "items": [
+        "2025年空运出口 9,085单",
+        "2025年空运进口 4,193单",
+        "2025年海运出口 2,555单",
+        "2025年海运进口 775单",
+        "空运货物 5,744吨",
+        "海运物动量 3,702 TEU"
+      ]
+    }
+  },
+  "network": {
+    "tag": "Global Network",
+    "title": "全球网络",
+    "features": [
+      "与全球主要港口、机场和陆运公司建立战略合作关系",
+      "通过多样化物流路线提供最优运输方案",
+      "在紧急情况下确保备用运输选项"
+    ],
+    "regions": [
+      {
+        "name": "美国",
+        "cities": ["纽约", "旧金山", "芝加哥", "洛杉矶"]
+      },
+      {
+        "name": "欧洲",
+        "cities": ["德国", "捷克", "匈牙利", "波兰", "伊斯坦布尔"]
+      },
+      {
+        "name": "东南亚",
+        "cities": ["新加坡", "马来西亚", "越南", "印度尼西亚"]
+      },
+      {
+        "name": "亚洲",
+        "cities": ["韩国", "日本", "中国", "香港", "台湾"]
+      }
+    ]
+  },
+  "clients": {
+    "tag": "Our Clients",
+    "title": "合作客户",
+    "description": "与半导体、显示屏、化学等尖端产业领域的全球企业合作。",
+    "quote": "From start to finish, EKL has continuously strived to provide the most efficient and sustainable services to our valuable customers.",
+    "companies": [
+      { "name": "SK海力士", "category": "半导体" },
+      { "name": "纬创", "category": "电子" },
+      { "name": "京东方", "category": "显示屏" },
+      { "name": "PROTEC", "category": "半导体" },
+      { "name": "杜邦", "category": "化学" },
+      { "name": "STB", "category": "半导体" },
+      { "name": "安靠科技", "category": "半导体封装" },
+      { "name": "中芯国际", "category": "半导体" },
+      { "name": "FOXLINK", "category": "电子部件" },
+      { "name": "ASE KOREA", "category": "半导体封装" },
+      { "name": "英业达电器", "category": "电子" },
+      { "name": "天马", "category": "显示屏" },
+      { "name": "东友精细化学株式会社", "category": "化学" },
+      { "name": "soubrain", "category": "半导体" },
+      { "name": "东进化学", "category": "半导体材料" },
+      { "name": "NOVA GAS TECHNOLOGIES", "category": "气体" }
+    ]
+  },
+  "contact": {
+    "tag": "Contact Us",
+    "title": "获取报价",
+    "description": "如有物流服务咨询，请留言，我们会尽快回复。",
+    "company": "易科物流（上海）有限公司",
+    "address": "上海市闵行区虹井路280弄2号虹桥晶座405-406室",
+    "phone": "T: +86-21-3468-9339 / FAX: +86-21-3468-9338",
+    "email": "eklsha@eklchina.com",
+    "departments": [
+      {
+        "dept": "空运部",
+        "name": "朴正植 常务理事",
+        "phone": "M. 186-1632-8475",
+        "email": "jspark@eklchina.com"
+      },
+      {
+        "dept": "海运部",
+        "name": "朴成一 次长",
+        "phone": "M. 156-1839-1826",
+        "email": "jim@eklchina.com"
+      },
+      {
+        "dept": "无锡办公室",
+        "name": "金成勋 所长",
+        "phone": "M. 180-1731-0997",
+        "email": "shkim@eklchina.com"
+      }
+    ],
+    "form": {
+      "name": "姓名",
+      "company": "公司名称",
+      "email": "电子邮件",
+      "phone": "联系电话",
+      "service": "服务类型",
+      "selectService": "请选择服务",
+      "air": "空运运输",
+      "sea": "海运运输",
+      "truck": "陆运运输",
+      "warehouse": "仓储与报关",
+      "message": "咨询内容",
+      "submit": "发送咨询",
+      "success": "您的咨询已收到。我们会尽快回复。"
+    }
+  },
+  "footer": {
+    "tagline": "Fast, Accurate, and Friendly",
+    "description": "以上海总部为中心，通过全球物流网络连接亚洲和美洲",
+    "quickLinks": "Quick Links",
+    "copyright": "© 2026 E-KEI LOGISTICS (SHANGHAI) CO., LTD. All rights reserved."
+  }
+}
